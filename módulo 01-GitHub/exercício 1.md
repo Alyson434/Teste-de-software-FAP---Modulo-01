@@ -48,6 +48,10 @@ git push origin main
 
 Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
 
+***Github comandos***
+ 
+ Acesse [(https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf)]
+
 
 ---
 
