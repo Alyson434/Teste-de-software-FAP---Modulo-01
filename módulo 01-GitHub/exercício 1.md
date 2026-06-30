@@ -112,3 +112,31 @@ Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
 
 
 ⭐ Obrigado por visitar meu portfólio!
+
+## 🧪 ***Exercício 10 – Recursos extras do Markdown***
+
+### ✏️ ***Texto riscado***
+~~Este texto está riscado~~
+
+### 🔥 ***Texto destacado (negrito e itálico)***
+**Texto em negrito**
+*Texto em itálico*
+***Texto em negrito e itálico***
+
+### 📌 ***Lista com checkbox***
+- [x] Git instalado
+- [x] GitHub configurado
+- [ ] Aprender mais sobre automação
+
+### 💬 ***Bloco de código***
+```bash
+git status
+git add .
+git commit -m "exercício 10"
+```
+
+### 📢 ***Aviso em destaque (citação com alerta)***
+> ⚠️ Importante: sempre praticar Git diariamente para melhorar.
+
+### 🔗 Link clicável
+Acesse o GitHub: https://github.com/
