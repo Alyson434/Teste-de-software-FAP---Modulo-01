@@ -14,11 +14,9 @@
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![Licença](https://img.shields.io/badge/Licença-MIT-green)
 
-## 💼 ***Portfólio Profissional***
+##📘 ***Jornada de aprendizado em tecnologia***
 
-Bem-vindo ao meu portfólio no GitHub!
-
-Aqui compartilho minha evolução durante a Formação em Testes de Software, além de projetos e atividades desenvolvidas ao longo do aprendizado.
+Bem-vindo ao meu espaço de aprendizado no GitHub, onde compartilho minha evolução na área de tecnologia, incluindo atividades, projetos e estudos desenvolvidos durante minha formação em Testes de Software.
 
 ---
 
