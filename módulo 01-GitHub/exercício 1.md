@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Alyson Verissimo
 
-## 💼 Portfólio Profissional
+## 💼 ***Portfólio Profissional***
 
 Bem-vindo ao meu portfólio no GitHub!
 
@@ -8,7 +8,7 @@ Aqui compartilho minha evolução durante a Formação em Testes de Software, al
 
 ---
 
-## 🎯 Objetivos
+## 🎯 ***Objetivos***
 
 - Aprender mais sobre Git e GitHub.
 - Desenvolver habilidades em Testes de Software.
@@ -28,7 +28,7 @@ Aqui compartilho minha evolução durante a Formação em Testes de Software, al
 
 ---
 
-## 📂 Projetos
+## 📂 ***Projetos***
 
 1. Atividades da Formação APONTI.
 2. Exercícios de Git e GitHub.
@@ -36,7 +36,7 @@ Aqui compartilho minha evolução durante a Formação em Testes de Software, al
 
 ---
 
-**## 💻 Exemplo de comando Git**
+## 💻 ***Exemplo de comando Git***
 
 ```bash
 git add .
@@ -47,7 +47,7 @@ git push origin main
 
 ---
 
-## 📫 Contato
+## 📫 ***Contato***
 
 - GitHub: https://github.com/Alyson434/
 ---
