@@ -143,7 +143,6 @@ Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
 
 
 
-⭐ Obrigado por visitar meu portfólio!
 
 ## 🧪 ***Recursos extras do Markdown***
 
