@@ -135,8 +135,10 @@ Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
 
 ## 📫 ***Contato***
 
-- GitHub: https://github.com/Alyson434/
-- Linkedin: https://www.linkedin.com/in/alyson-ver%C3%ADssimo-dos-prazeres-205334236/
+## 📫 Contato
+
+[🐙](https://github.com/Alyson434/) GitHub  
+[💼](https://www.linkedin.com/in/alyson-ver%C3%ADssimo-dos-prazeres-205334236/) LinkedIn
 ---
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
