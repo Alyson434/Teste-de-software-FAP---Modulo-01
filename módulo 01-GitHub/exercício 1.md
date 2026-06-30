@@ -141,7 +141,7 @@ Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
 
 ⭐ Obrigado por visitar meu portfólio!
 
-## 🧪 ***Exercício 10 – Recursos extras do Markdown***
+## 🧪 ***Recursos extras do Markdown***
 
 ### ✏️ ***Texto riscado***
 ~~Este texto está riscado~~
