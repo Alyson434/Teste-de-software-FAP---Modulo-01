@@ -17,7 +17,7 @@ Aqui compartilho minha evolução durante a Formação em Testes de Software, al
 
 ---
 
-## 🛠️ **Habilidades em desenvolvimento**
+## 🛠️ ***Habilidades em desenvolvimento***
 
 - Git
 - GitHub
