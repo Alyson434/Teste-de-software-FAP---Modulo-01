@@ -57,9 +57,10 @@ módulo 01-GitHub/
     ├── js1.png
     ├── linkedin.png
     └── programação.png
+```
 
 
-▶️ ***Como executar o projeto***
+## ▶️ ***Como executar o projeto***
 1. Acesse o repositório no GitHub  
 2. Clique em **Code**  
 3. Copie o link HTTPS  
