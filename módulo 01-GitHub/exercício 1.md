@@ -43,11 +43,15 @@ Aqui compartilho minha evolução durante a Formação em Testes de Software, al
 ---
 
 ## 📁 Estrutura das pastas
+
 ```
 /
 ├── imagens/
+├── projetos/
+├── codigo/
+├── documentos/
 ├── README.md
-└── projetos/
+```
 ```
 ## ▶️ Como executar o projeto
 1. Acesse o repositório no GitHub  
