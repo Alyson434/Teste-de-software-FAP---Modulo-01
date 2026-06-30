@@ -87,6 +87,7 @@ Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
 ## 💡 ***Citação***
 
 > "A prática é o caminho para aprender programação."
+> 
 > "Cada linha de código é uma oportunidade de aprender algo novo."
 >
 > — Harold Abelson
