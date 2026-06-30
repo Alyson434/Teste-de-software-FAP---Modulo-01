@@ -36,13 +36,14 @@ Aqui compartilho minha evolução durante a Formação em Testes de Software, al
 
 ---
 
-## 💻 Exemplo de comando Git
+**## 💻 Exemplo de comando Git**
 
 ```bash
 git add .
 git commit -m "Atualização do portfólio"
 git push origin main
 ```
+
 
 ---
 
