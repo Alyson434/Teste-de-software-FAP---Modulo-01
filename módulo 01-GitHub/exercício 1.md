@@ -42,6 +42,7 @@ Bem-vindo ao meu espaço de aprendizado no GitHub, onde compartilho minha evolu�
 
 ---
 
+```text
 módulo 01-GitHub/
 ├── codigo/
 │   └── javascript.js
