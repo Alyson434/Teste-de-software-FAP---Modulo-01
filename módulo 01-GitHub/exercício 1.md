@@ -67,12 +67,22 @@ GitHub: https://github.com/Alyson434/
 
 ---
 
-## 💻 Exemplo de comando Git
+## 💻 ***Exemplo de comandos Git***
 
 ```bash
 git add .
 git commit -m "Atualização do portfólio"
 git push origin main
+```
+
+---
+
+## ⌨️ ***Exemplo de comandos do terminal***
+
+```bash
+cd meu-projeto
+ls
+mkdir pasta-teste
 ```
 
 ## 🌐 ***Tricents***
