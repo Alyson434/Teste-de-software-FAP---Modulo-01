@@ -4,6 +4,7 @@
 
 - [Objetivos](#-objetivos)
 - [Tecnologias utilizadas e em desenvolvimento](#️-habilidades-em-desenvolvimento)
+- [Estrutura de Pastas](#-estrutura-de-pastas)
 - [Projetos em desenvolvimento](#-projetos-em-desenvolvimento)
 - [Exemplo de comando Git](#-exemplo-de-comando-git)
 - [Tecnologias estudadas](#-tecnologias-estudadas)
