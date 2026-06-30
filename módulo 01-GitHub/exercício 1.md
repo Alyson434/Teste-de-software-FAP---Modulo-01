@@ -53,7 +53,7 @@ Aqui compartilho minha evolução durante a Formação em Testes de Software, al
 ├── README.md
 ```
 
-## ▶️ ***Como executar o projeto***
+▶️ ***Como executar o projeto***
 1. Acesse o repositório no GitHub  
 2. Clique em **Code**  
 3. Copie o link HTTPS  
