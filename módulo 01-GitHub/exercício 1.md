@@ -90,7 +90,6 @@ Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
 > 
 > "Cada linha de código é uma oportunidade de aprender algo novo."
 >
-> — Harold Abelson
 
 ## 📫 ***Contato***
 
