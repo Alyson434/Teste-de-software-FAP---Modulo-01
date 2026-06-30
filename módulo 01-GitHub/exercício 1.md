@@ -93,7 +93,7 @@ mkdir pasta-teste
 
 Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
 
-## ![GitHub](imagem/github-br.png) ***GitHub comandos***
+## ![GitHub](imagem/github-64.png) ***GitHub comandos***
  
  Acesse [(https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf)]
 
