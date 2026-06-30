@@ -31,7 +31,7 @@ Aqui compartilho minha evolução durante a Formação em Testes de Software, al
 
 ---
 
-## 🛠️ ***Habilidades em desenvolvimento***
+## 🛠️ ***Tecnologias utilizadas e em desnvolvimento***
 
 - Git
 - GitHub
@@ -42,11 +42,28 @@ Aqui compartilho minha evolução durante a Formação em Testes de Software, al
 
 ---
 
-## 📂 ***Projetos em desenvolvimento***
+## 📁 Estrutura das pastas
+```
+/
+├── imagens/
+├── README.md
+└── projetos/
+```
+## ▶️ Como executar o projeto
+1. Acesse o repositório no GitHub  
+2. Clique em **Code**  
+3. Copie o link HTTPS  
+4. No terminal use:
+```bash
+git clone https: https://github.com/Alyson434/
+```
+5. Abra a pasta do projeto
 
-1. Atividades da Formação APONTI.
-2. Exercícios de Git e GitHub.
-3. Projetos de Testes de Software.
+---
+
+## 👨‍💻 Autor
+Alyson Verissimo  
+GitHub: https://github.com/Alyson434/
 
 ---
 
