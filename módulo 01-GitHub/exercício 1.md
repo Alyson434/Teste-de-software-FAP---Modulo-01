@@ -42,19 +42,21 @@ Bem-vindo ao meu espaço de aprendizado no GitHub, onde compartilho minha evolu�
 
 ---
 
-```### 📂 ***Estrutura das Pastas***
+### 📂 Estrutura das Pastas
+
+```text
 módulo 01-GitHub/
-├── codigo/
-│   └── javascript.js
-├── documentos/
-│   └── github comandos.pdf
-└── imagem/
-    ├── github-64.png
-    ├── github-br.png
-    ├── icon.png
-    ├── js1.png
-    ├── linkedin.png
-    └── programação.png
+├── 📂 codigo/
+│   └── 📄 javascript.js
+├── 📂 documentos/
+│   └── 📄 github comandos.pdf
+└── 📂 imagem/
+    ├── 🖼️ github-64.png
+    ├── 🖼️ github-br.png
+    ├── 🖼️ icon.png
+    ├── 🖼️ js1.png
+    ├── 🖼️ linkedin.png
+    └── 🖼️ programação.png
 
 ▶️ ***Como executar o projeto***
 1. Acesse o repositório no GitHub  
