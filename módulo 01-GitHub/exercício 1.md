@@ -52,7 +52,7 @@ Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
  
  Acesse [(https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf)]
 
-## ***Javascript***
+![logojs](imagem/js.png)## ***Javascript***
 
  [ Exemplo de código Javascript](codigo/javascript.js)
 
