@@ -51,4 +51,9 @@ git push origin main
 - GitHub: https://github.com/Alyson434/
 ---
 
+
+![Tecnologia](https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200)
+
+## 💼 Portfólio Profissional
+
 ⭐ Obrigado por visitar meu portfólio!
