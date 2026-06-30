@@ -52,7 +52,7 @@ git push origin main
 ---
 
 
-![Banner de Tecnologia](images/banner-tecnologia.jpg)
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## 💼 Portfólio Profissional
 
