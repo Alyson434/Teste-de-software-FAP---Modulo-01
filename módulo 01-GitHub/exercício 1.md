@@ -52,7 +52,7 @@ git push origin main
 ---
 
 
-![Testes de Software](images/testes-software.png)
+![Banner de Tecnologia](images/banner-tecnologia.jpg)
 
 ## 💼 Portfólio Profissional
 
