@@ -54,7 +54,7 @@ Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
 
 ## ***Javascript***
 
- ![ Exemplo de código Javascript](codigo/javascript.js)
+ [ Exemplo de código Javascript](codigo/javascript.js)
 
 
 
