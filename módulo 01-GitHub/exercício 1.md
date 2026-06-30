@@ -52,7 +52,7 @@ Aqui compartilho minha evolução durante a Formação em Testes de Software, al
 ├── documentos/
 ├── README.md
 ```
-```
+
 ## ▶️ ***Como executar o projeto***
 1. Acesse o repositório no GitHub  
 2. Clique em **Code**  
