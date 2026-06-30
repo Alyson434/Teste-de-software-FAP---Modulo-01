@@ -70,8 +70,9 @@ GitHub: https://github.com/Alyson434/
 ## 💻 ***Exemplo de comando Git***
 
 ```bash
+git status
 git add .
-git commit -m "Atualização do portfólio"
+git commit -m "mensagem"
 git push origin main
 ```
 
