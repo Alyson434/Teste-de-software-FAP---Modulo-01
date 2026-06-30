@@ -68,6 +68,18 @@ Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
 - [x] Finalizar e revisar toda a documentação
 ---
 
+## 📊 ***Tecnologias estudadas***
+
+| Tecnologia | Finalidade | Nível de conhecimento |
+|------------|------------|-----------------------|
+| Git | Controle de versão | Básico |
+| GitHub | Hospedagem de código | Básico |
+| Markdown | Documentação | Básico |
+| JavaScript | Programação | Básico |
+| Testes Manuais | Garantia da qualidade | Em aprendizado |
+| Testes de API | Testes de serviços | Em aprendizado |
+| Automação de Testes | Automatizar testes | Em aprendizado |
+
 ## 📫 ***Contato***
 
 - GitHub: https://github.com/Alyson434/
