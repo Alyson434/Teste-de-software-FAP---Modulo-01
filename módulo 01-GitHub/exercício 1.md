@@ -3,7 +3,7 @@
 ## 📑 ***Índice***
 
 - [Objetivos](#-objetivos)
-- [Habilidades em desenvolvimento](#️-habilidades-em-desenvolvimento)
+- [Tecnologias utilizadas e em desenvolvimento](#️-habilidades-em-desenvolvimento)
 - [Projetos em desenvolvimento](#-projetos-em-desenvolvimento)
 - [Exemplo de comando Git](#-exemplo-de-comando-git)
 - [Tecnologias estudadas](#-tecnologias-estudadas)
