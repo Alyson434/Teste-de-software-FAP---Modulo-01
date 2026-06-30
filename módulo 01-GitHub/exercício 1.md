@@ -2,13 +2,13 @@
 
 ## 📑 ***Índice***
 
-- [Objetivos](#objetivos)
-- [Habilidades](#habilidades-em-desenvolvimento)
-- [Projetos](#projetos-em-desenvolvimento)
-- [Comando Git](#exemplo-de-comando-git)
-- [Tecnologias](#tecnologias-estudadas)
-- [Citação](#citação)
-- [Contato](#contato)
+- [Objetivos](#-objetivos)
+- [Habilidades em desenvolvimento](#️-habilidades-em-desenvolvimento)
+- [Projetos em desenvolvimento](#-projetos-em-desenvolvimento)
+- [Exemplo de comando Git](#-exemplo-de-comando-git)
+- [Tecnologias estudadas](#-tecnologias-estudadas)
+- [Citação](#-citação)
+- [Contato](#-contato)
 
 ![GitHub](https://img.shields.io/badge/GitHub-Portfólio-black)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
