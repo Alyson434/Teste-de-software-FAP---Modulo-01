@@ -1,4 +1,9 @@
 # 👋 Olá, eu sou Alyson Verissimo
+# 👋 Olá, eu sou Alyson Verissimo
+
+![GitHub](https://img.shields.io/badge/GitHub-Portfólio-black)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Licença](https://img.shields.io/badge/Licença-MIT-green)
 
 ## 💼 ***Portfólio Profissional***
 
