@@ -6,10 +6,11 @@
 - [Tecnologias utilizadas e em desenvolvimento](#️-habilidades-em-desenvolvimento)
 - [Estrutura das Pastas](#-estrutura-de-pastas)
 - [Como executar o projeto](#-projetos-em-desenvolvimento)
+- [Autor](#-Autor).
 - [Exemplo de comando Git](#-exemplo-de-comando-git)
 - [Tecnologias estudadas](#-tecnologias-estudadas)
 - [Citação](#-citação)
-- [Contato](#-contato)
+- [Contatos](#-contatos)
 
 ![GitHub](https://img.shields.io/badge/GitHub-Portfólio-black)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
