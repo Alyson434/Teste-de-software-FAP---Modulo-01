@@ -55,6 +55,15 @@ Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
  ![ Exemplo de código Javascript](codigo/javascript.js)
 
 
+
+# 🗺️***Acompanhe abaixo o progresso do desenvolvimento e da documentação do projeto:***
+
+- [x] Criar repositório no GitHub
+- [x] Estruturar o README principal (Exercício 3)
+- [x] Adicionar exemplos com blocos de código (Exercício 4)
+- [x] Inserir imagem ilustrativa/screenshot na documentação
+- [x] Inserir link para o PDF do projeto
+- [x] Finalizar e revisar toda a documentação
 ---
 
 ## 📫 ***Contato***
