@@ -10,14 +10,14 @@ Aqui compartilho minha evolução durante a Formação em Testes de Software, al
 
 ## 🎯 Objetivos
 
-- Aprender Git e GitHub.
+- Aprender mais sobre Git e GitHub.
 - Desenvolver habilidades em Testes de Software.
 - Criar um portfólio profissional.
 - Evoluir continuamente na área de tecnologia.
 
 ---
 
-## 🛠️ Habilidades
+## 🛠️ **Habilidades em desenvolvimento**
 
 - Git
 - GitHub
@@ -55,6 +55,6 @@ git push origin main
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-## 💼 Portfólio Profissional
+
 
 ⭐ Obrigado por visitar meu portfólio!
