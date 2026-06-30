@@ -6,7 +6,7 @@
 - [Tecnologias utilizadas e em desenvolvimento](#️-habilidades-em-desenvolvimento)
 - [Estrutura das Pastas](#-estrutura-de-pastas)
 - [Como executar o projeto](#-projetos-em-desenvolvimento)
-- [Autor](#-Autor).
+- [Autor](#-Autor)
 - [Exemplo de comando Git](#-exemplo-de-comando-git)
 - [Tecnologias estudadas](#-tecnologias-estudadas)
 - [Citação](#-citação)
