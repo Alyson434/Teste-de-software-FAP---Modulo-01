@@ -28,7 +28,7 @@ Aqui compartilho minha evolução durante a Formação em Testes de Software, al
 
 ---
 
-## 📂 ***Projetos***
+## 📂 ***Projetos em desenvolvimento***
 
 1. Atividades da Formação APONTI.
 2. Exercícios de Git e GitHub.
