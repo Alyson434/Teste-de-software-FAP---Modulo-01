@@ -84,6 +84,12 @@ Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
 | Testes de API | Testes de serviços | Em aprendizado |
 | Automação de Testes | Automatizar testes | Em aprendizado |
 
+## 💡 ***Citação***
+
+> "Programas devem ser escritos para pessoas lerem e apenas incidentalmente para máquinas executarem."
+>
+> — Harold Abelson
+
 ## 📫 ***Contato***
 
 - GitHub: https://github.com/Alyson434/
