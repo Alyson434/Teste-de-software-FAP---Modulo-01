@@ -132,13 +132,11 @@ Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
 > 
 > "Cada linha de código é uma oportunidade de aprender algo novo."
 
-[![linkedin](imagem/linkedin.png)]([https://link-destino.com](https://www.linkedin.com/in/alyson-ver%C3%ADssimo-dos-prazeres-205334236/))
 
 ## 📫 ***Contato***
 
 - GitHub: https://github.com/Alyson434/
 ---
-
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
