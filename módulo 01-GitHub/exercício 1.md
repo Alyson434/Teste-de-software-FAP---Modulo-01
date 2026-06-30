@@ -46,7 +46,7 @@ git push origin main
 
 ## 🌐 Tricents**
 
-Acesse meu perfil: [https://github.com/SEU-USUARIO](https://www.tricentis.com/pt/software-testing-tool-trial-demo)
+Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
 
 
 ---
