@@ -56,7 +56,7 @@ Acesse meu perfil: https://www.tricentis.com/pt/software-testing-tool-trial-demo
 
 
 
-# 🗺️***Acompanhe abaixo o progresso do desenvolvimento e da documentação do projeto:***
+# 🗺️ Acompanhe abaixo o progresso do desenvolvimento e da documentação do projeto:
 
 - [x] Criar repositório no GitHub
 - [x] Estruturar o README principal (Exercício 3)
