@@ -11,3 +11,8 @@
 
 ### 👨‍💻 ***Qual o papel do QA em um time moderno?***
 **R:** Garantir que o software tenha qualidade. O QA ajuda a encontrar erros e trabalha com a equipe para entregar um software mais seguro, confiável e com menos problemas.
+
+---
+
+👤 ***Alyson Verissimo***  
+📅 **Data: 02 de Julho de 2026
