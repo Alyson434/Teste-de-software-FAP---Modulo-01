@@ -178,3 +178,10 @@ git commit -m "exercício 10"
 
 ### 🔗 Link clicável
 Acesse o GitHub: https://github.com/
+
+<p align="center">
+  <sub><i>👨‍💻 Alyson Veríssimo</i></sub><br>
+  <sub><i>📚 Estudante de Tecnologia</i></sub><br>
+  <sub><i>🧪 Em formação em Teste de Software</i></sub><br>
+  <sub><i>📅 julho de 2026</i></sub>
+</p>
