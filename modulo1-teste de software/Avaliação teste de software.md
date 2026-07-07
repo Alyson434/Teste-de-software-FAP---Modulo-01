@@ -14,5 +14,9 @@
 
 ---
 
-👤 ***Alyson Verissimo***  
-📅 **Data: 02 de Julho de 2026
+<p align="center">
+  <sub><i>👨‍💻 Alyson Veríssimo</i></sub><br>
+  <sub><i>📚 Estudante de Tecnologia</i></sub><br>
+  <sub><i>🧪 Em formação em Teste de Software</i></sub><br>
+  <sub><i>📅 2 de julho de 2026</i></sub>
+</p>
