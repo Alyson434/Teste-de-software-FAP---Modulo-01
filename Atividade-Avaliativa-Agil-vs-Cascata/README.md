@@ -21,7 +21,7 @@ O modelo **Ágil** promove testes contínuos e entregas incrementais, contribuin
 
 Ambas as metodologias possuem vantagens e limitações, e a escolha entre elas dependerá das características e objetivos do projeto.
 
-## 🎬 Metodologias de Desenvolvimento
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
